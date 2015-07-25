@@ -1,16 +1,12 @@
 ﻿{ "version": "1.0",
 "user_name": "pinp",
-"user_type": "Organization",
-"user_desc": "PINP document system",
-"user_url": "http://www.pinp.me/",
-"pinp_id": 0,
 
 "builtin_repos": [],
-"imported_repos": [],
+"imported_repos": [["https://best-js.github.io/blog/","Online help"]],
 
 "repos_name": "blog",
-"repos_desc": "Online help",
-"sort_by": "name",
+"repos_desc": "",
+"sort_by": "modify_time",
 "list_all": true,
 
 "doc_list": [

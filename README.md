@@ -1,1 +1,1 @@
-# Root page of PINP blog
+# Homepage of PINP blog
