@@ -1,6 +1,6 @@
 Homepage of PINP blog
 =====================
 
-This repository is supposed to save blog documents, the blog system is powered by [pinp/software](../software/README.md).
+This repository is supposed to save blog documents, the blog system is powered by [pinp/software](../software).
 
-<a target="_blank" href="https://www.pinp.me/software/pages/blogger/gh_jump.action">View shared blogs</a> from current author.
+<a target="_blank" href="https://www.pinp.me/software/pages/blogger/gh_jump.action">Click here to view shared blogs</a>
